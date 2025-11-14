@@ -1,1 +1,2 @@
-# try-hugo
+# try [hugo](https://gohugo.io/)
+
