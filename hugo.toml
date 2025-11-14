@@ -1,0 +1,3 @@
+baseURL = 'https://szabgab.github.io/try-hugo/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
